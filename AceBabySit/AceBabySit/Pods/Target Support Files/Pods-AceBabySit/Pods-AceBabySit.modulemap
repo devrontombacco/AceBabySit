@@ -1,0 +1,6 @@
+framework module Pods_AceBabySit {
+  umbrella header "Pods-AceBabySit-umbrella.h"
+
+  export *
+  module * { export * }
+}
